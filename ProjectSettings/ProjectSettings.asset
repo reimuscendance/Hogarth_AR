@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 4fbc14877eb78489e952d1950068215e
+  productGUID: 634f51a1bb2234591b357de9f87205ef
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: St Mary Redcliffe
-  productName: Hogarth AR
+  companyName: DefaultCompany
+  productName: My project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -135,12 +135,12 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   bundleVersion: 1.0
   preloadedAssets:
-  - {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874, type: 2}
-  - {fileID: -906990648198499217, guid: 58f40b12bbc864f3c96c6505a9a1e1e3, type: 2}
-  - {fileID: 11400000, guid: 2ccb9130f46f5414bb31251b40f9c3b4, type: 2}
-  - {fileID: 7159327836866449444, guid: 6bb381a8ba31f114d9724357633b4625, type: 2}
   - {fileID: 4800000, guid: e7c77f6eaab324a819efdc13b8125a39, type: 3}
   - {fileID: 4800000, guid: 6743a50a812740be8c0aa3fccc46fae9, type: 3}
+  - {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874, type: 2}
+  - {fileID: -906990648198499217, guid: 58f40b12bbc864f3c96c6505a9a1e1e3, type: 2}
+  - {fileID: 11400000, guid: fa0cf0429a99e421588a66bad1175f7d, type: 2}
+  - {fileID: -1886140329997754849, guid: 6bb381a8ba31f114d9724357633b4625, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -754,7 +754,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    iPhone: UNITY_XR_ARKIT_LOADER_ENABLED;UNITY_XR_ARKIT_FACE_TRACKING_ENABLED
+    iPhone: UNITY_XR_ARKIT_LOADER_ENABLED
   additionalCompilerArguments: {}
   platformArchitecture:
     iPhone: 1
@@ -789,14 +789,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: My project (1)
+  metroPackageName: My project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: My project (1)
+  metroApplicationDescription: My project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0

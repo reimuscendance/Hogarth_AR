@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8988889735405241614
+--- !u!114 &-6361604159935135965
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d236b7d11115f2143951f1e14045df39, type: 3}
   m_Name: WebGL Settings
   m_EditorClassIdentifier: 
-  m_LoaderManagerInstance: {fileID: -7404512103184932879}
+  m_LoaderManagerInstance: {fileID: -3122230665531772449}
   m_InitManagerOnStart: 1
---- !u!114 &-7404512103184932879
+--- !u!114 &-3122230665531772449
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -59,8 +59,8 @@ MonoBehaviour:
   Keys: 04000000010000000d000000
   Values:
   - {fileID: -906990648198499217}
-  - {fileID: 2569081277671450968}
-  - {fileID: -8988889735405241614}
+  - {fileID: 1133139145098004078}
+  - {fileID: -6361604159935135965}
 --- !u!114 &1009030276301525555
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78,7 +78,7 @@ MonoBehaviour:
   m_AutomaticRunning: 0
   m_Loaders:
   - {fileID: 11400000, guid: de0ea855f920d4e3a8db461dc3454566, type: 2}
---- !u!114 &2569081277671450968
+--- !u!114 &1133139145098004078
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -90,9 +90,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d236b7d11115f2143951f1e14045df39, type: 3}
   m_Name: Standalone Settings
   m_EditorClassIdentifier: 
-  m_LoaderManagerInstance: {fileID: 5772206437252521075}
+  m_LoaderManagerInstance: {fileID: 6400907053423529761}
   m_InitManagerOnStart: 1
---- !u!114 &5772206437252521075
+--- !u!114 &6400907053423529761
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
